@@ -11,10 +11,11 @@ body{
   background-size: 100%;
 }
 body, a:link, a:visited, a:active{
-  color:black;
+color:black;
 font-family:fantasy;
-    text-decoration: underline;
-    
+text-decoration: underline;
+background-color:darkblue; /* Black fallback color */
+background-color: rgba(0,0,0, 0.1)
 }
 .title, .addDancerButton{
   padding:5px 12px;
