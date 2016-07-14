@@ -11,14 +11,14 @@ body{
   background-size: 100%;
 }
 body, a:link, a:visited, a:active{
-  color: #093B8F;
+  color:brown;
 }
 .title, .addDancerButton{
   padding:5px 12px;
   float:right;
 }
 .topbar{
-  height:32px;
+  height:100px;
   background-color: white;
   z-index: 10;
   position: relative;
