@@ -21,7 +21,11 @@ padding: 20px;
 line-height: 20px;
 width: 150px;
 }
-
+.text{
+    color:white;
+    font-size: 50px;
+    
+}
 }
 .title, .addDancerButton{
   padding:5px 12px;
