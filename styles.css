@@ -6,26 +6,31 @@ body{
   margin: 0px;
   background-color:#444;
   font-size: 18px;
-  height: 800px;
-  background: url(images/GAAQUARIUM.jpg) no-repeat;
+  background: url(images/GAAQUARIUM.jpg);
+background-size: cover;
   background-size: 100%;
 }
 body, a:link, a:visited, a:active{
 color:black;
 font-family:fantasy;
-text-decoration: underline;
 background-color:darkblue; /* Black fallback color */
-background-color: rgba(0,0,0, 0.1)
+background-color: rgba(0,0,0, 0.1);
+height: 60px;
+text-align: center;
+padding: 20px;
+line-height: 20px;
+width: 150px;
 }
 .title, .addDancerButton{
   padding:5px 12px;
   float:right;
 }
 .topbar{
-  height:50px;
-  background-color: white;
+  height:60px;
+  background-color:gainsboro;
   z-index: 10;
   position:fixed;
+max-width:100%;
 }
 .title{
   background-color: #777;
