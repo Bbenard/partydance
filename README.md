@@ -18,4 +18,5 @@ javascript
 
 About
 
+Contact
 
