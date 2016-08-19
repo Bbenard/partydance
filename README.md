@@ -20,4 +20,7 @@ About
 
 Contact
 
+Portfolio
+
+Members
 
